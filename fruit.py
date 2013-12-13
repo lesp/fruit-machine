@@ -23,3 +23,4 @@ while True:
                 print ("Jackpot")
     else:
         print ("End of game")
+        break
